@@ -1,0 +1,16 @@
+{
+    "errors": {
+        "header_errors": [
+            "array com erros"
+        ],
+        "body_errors": [
+            "array com erros"
+        ],
+        "footer_errors": [
+            "array com erros"
+        ]
+    },
+    "annotations": [
+        "array com anotações"
+    ]
+}
